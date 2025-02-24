@@ -6,44 +6,23 @@ kanban-plugin: board
 
 ## In Progress
 
-- [x] 월세, 관리비 송금
-	@[[2025-02-25]]
-	
-	#priority/highest
-- [x] 물품 구매 견적서 송부하기
-	@[[2025-03-24]]
-	
-	#priority/highest
-- [x] 한글 설치, 듀얼 부팅 설치
-	@[[2025-02-25]]
+- [x] 강화학습 옵시디언에 정리해보기
+- [ ] 등록금 분할 납부 신청
+	@[[2025-03-01]]
 	
 	#priority/high
-- [x] 강화학습 옵시디언에 정리해보기
-- [x] ubuntu 개발 환경 구축
-	@[[2025-02-24]]
+- [ ] TA(nonpaid)
+	@[[2025-03-01]]
 	
 	#priority/high
 - [ ] 알바 구하기
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] 등록금 분할 납부 신청
-	@[[2025-02-28]]
+- [ ] 구매: 무릎 스트랩, 행거, 선반, 셔츠, 바지, 프로틴
+	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] Nonpaid TA
-	@[[2025-09-01]]
-	
-	#priority/low
-- [ ] 핸드폰 요금제
-	@[[2025-04-01]]
-	
-	#priority/low
-- [ ] 구매: 무릎 스트랩, 행거, 선반, 셔츠, 바지, 프로틴
-- [ ] solidworks install
-	@[[2025-04-01]]
-	
-	#priority/low
 
 
 ## Studying
@@ -56,6 +35,7 @@ kanban-plugin: board
 - [ ] 연구 윤리 강의 수강
 - [ ] cyclops 운용, 전장, 코드
 - [ ] 강화 학습
+- [ ] PCB
 
 
 ## On going
@@ -77,6 +57,10 @@ kanban-plugin: board
 - [x] #priority/highest KROC - 사후정산
 - [x] #priority/highest 
 	신입생 시간표 정리
+- [x] 물품 구매 견적서 송부하기
+	@[[2025-03-24]]
+	
+	#priority/highest
 - [x] #priority/low @[[2025-02-25]]
 	청년 월세 지원 신청
 - [x] #priority/high
@@ -100,13 +84,33 @@ kanban-plugin: board
 - [x] #priority/low
 	@[[2025-02-08]]
 	UT - 일정 및 체크박스 정리
+- [x] 물품 구매 견적서 송부하기
+	@[[2025-03-24]]
+	
+	#priority/highest
+- [x] 월세, 관리비 송금
+	@[[2025-02-25]]
+	
+	#priority/highest
 - [x] #priority/highest @[[2025-02-02]]
 	[[Kanban - Reinforcement Learning]]
 	물체 검출 및 제어
+- [x] 한글 설치, 듀얼 부팅 설치
+	@[[2025-02-25]]
+	
+	#priority/high
 - [x] #priority/high 
 	@[[2025-02-03]]
 	[[Kanban - PKRC]]
 	pathfinder 테스트
+- [x] ubuntu 개발 환경 구축
+	@[[2025-02-24]]
+	
+	#priority/high
+- [x] 월세, 관리비 송금
+	@[[2025-02-25]]
+	
+	#priority/highest
 - [x] #priority/high
 	월세 제출하기
 - [x] #priority/highest @[[2025-02-03]]
