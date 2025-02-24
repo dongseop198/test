@@ -22,6 +22,10 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] Cyclops 테스트, 경로 짜기 참관
+	@[[2025-02-26]]
+	
+	#priority/high
 
 
 ## Studying
