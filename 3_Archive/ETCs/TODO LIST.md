@@ -44,6 +44,8 @@ kanban-plugin: board
 - [ ] 로봇공학
 	(기구학,역기구학)
 - [ ] ROS
+- [ ] C언어 자료 구조
+- [ ] SLAM 스터디
 
 
 ## Done
