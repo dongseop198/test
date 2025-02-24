@@ -14,8 +14,8 @@ kanban-plugin: board
 	@[[2025-02-25]]
 	
 	#priority/highest
-- [ ] 등록금 납부
-	@[[2025-03-23]]
+- [ ] 등록금 분할 납부 신청
+	@[[2025-02-28]]
 	
 	#priority/high
 - [ ] Nonpaid TA
@@ -27,11 +27,7 @@ kanban-plugin: board
 	
 	#priority/low
 - [ ] 구매: 무릎 스트랩, 행거, 선반, 셔츠, 바지, 프로틴
-- [x] 물품 구매 견적서 송부하기
-	@[[2025-03-24]]
-	
-	#priority/highest
-- [ ] 한글 설치, 듀얼 부팅 설치
+- [x] 한글 설치, 듀얼 부팅 설치
 	@[[2025-02-25]]
 	
 	#priority/high
@@ -62,11 +58,15 @@ kanban-plugin: board
 - [x] #priority/highest
 	@[[2025-02-23]]
 	Agent - 파라미터 수정
-- [ ] #priority/low 
+- [x] #priority/low 
 	학자금 대출 신청 완료 하기
 - [x] #priority/highest KROC - 사후정산
 - [x] #priority/highest 
 	신입생 시간표 정리
+- [x] 물품 구매 견적서 송부하기
+	@[[2025-03-24]]
+	
+	#priority/highest
 - [x] #priority/low @[[2025-02-25]]
 	청년 월세 지원 신청
 - [x] #priority/high

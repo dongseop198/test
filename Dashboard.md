@@ -1,4 +1,7 @@
 ---
+banner: "![[노을과 반영-035_2560x1440.jpg]]"
+---
+---
 dg-publish: false
 cssclasses:
   - dashboard
