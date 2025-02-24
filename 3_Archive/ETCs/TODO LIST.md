@@ -8,11 +8,10 @@ kanban-plugin: board
 
 - [x] 강화학습 옵시디언에 정리해보기
 - [ ] 등록금 분할 납부 신청
-	@[[2025-03-01]]
+	@[[2025-02-28]]
 	
 	#priority/high
-- [ ] TA(nonpaid)
-	@[[2025-03-01]]
+- [ ] TA(졸업 요건)
 	
 	#priority/high
 - [ ] 알바 구하기
