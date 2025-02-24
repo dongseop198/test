@@ -27,7 +27,7 @@ kanban-plugin: board
 	
 	#priority/low
 - [ ] 구매: 무릎 스트랩, 행거, 선반, 셔츠, 바지, 프로틴
-- [ ] 물품 구매 견적서 송부하기
+- [x] 물품 구매 견적서 송부하기
 	@[[2025-03-24]]
 	
 	#priority/highest
@@ -44,6 +44,7 @@ kanban-plugin: board
 - [ ] solidworks
 - [ ] 로봇공학
 - [ ] ROS
+- [ ] 연구 윤리 강의 수강
 - [ ] cyclops 운용, 전장, 코드
 
 
