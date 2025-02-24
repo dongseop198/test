@@ -28,7 +28,6 @@ dv.paragraph(`[[${filePath}|Today's Daily Note]]`);
 >>[!note] #### In progress
 >>- [ ] [[Kanban - Reinforcement Learning|Reinforcement Learning]]
 >>- [ ] [[Kanban - PKRC]]
->>- [ ] SOLIDWORKS
 >
 >>[!abstract] ##### On going
 >>
