@@ -6,16 +6,29 @@ kanban-plugin: board
 
 ## In Progress
 
+- [x] 월세, 관리비 송금
+	@[[2025-02-25]]
+	
+	#priority/highest
+- [x] 물품 구매 견적서 송부하기
+	@[[2025-03-24]]
+	
+	#priority/highest
+- [x] 한글 설치, 듀얼 부팅 설치
+	@[[2025-02-25]]
+	
+	#priority/high
+- [x] 강화학습 옵시디언에 정리해보기
+- [x] ubuntu 개발 환경 구축
+	@[[2025-02-24]]
+	
+	#priority/high
 - [ ] 알바 구하기
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] 월세, 관리비 송금
-	@[[2025-02-25]]
-	
-	#priority/highest
-- [ ] 등록금 납부
-	@[[2025-03-23]]
+- [ ] 등록금 분할 납부 신청
+	@[[2025-02-28]]
 	
 	#priority/high
 - [ ] Nonpaid TA
@@ -27,17 +40,13 @@ kanban-plugin: board
 	
 	#priority/low
 - [ ] 구매: 무릎 스트랩, 행거, 선반, 셔츠, 바지, 프로틴
-- [x] 물품 구매 견적서 송부하기
-	@[[2025-03-24]]
+- [ ] solidworks install
+	@[[2025-04-01]]
 	
-	#priority/highest
-- [ ] 한글 설치, 듀얼 부팅 설치
-	@[[2025-02-25]]
-	
-	#priority/high
+	#priority/low
 
 
-## On Going
+## Studying
 
 - [ ] c/c++
 - [ ] opencv
@@ -46,9 +55,10 @@ kanban-plugin: board
 - [ ] ROS
 - [ ] 연구 윤리 강의 수강
 - [ ] cyclops 운용, 전장, 코드
+- [ ] 강화 학습
 
 
-## Pause
+## On going
 
 
 
@@ -62,7 +72,7 @@ kanban-plugin: board
 - [x] #priority/highest
 	@[[2025-02-23]]
 	Agent - 파라미터 수정
-- [ ] #priority/low 
+- [x] #priority/low 
 	학자금 대출 신청 완료 하기
 - [x] #priority/highest KROC - 사후정산
 - [x] #priority/highest 
