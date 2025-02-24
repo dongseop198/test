@@ -32,17 +32,18 @@ kanban-plugin: board
 
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
-- [ ] c/c++
-- [ ] solidworks
-- [ ] 로봇공학
-- [ ] ROS
-- [ ] cyclops 운용, 전장, 코드
+- [ ] c/c++ 85강
 - [ ] 강화 학습
+- [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
 
 
-## On going
+## Future study plan
 
+- [ ] solidworks
+- [ ] 로봇공학
+	(기구학,역기구학)
+- [ ] ROS
 
 
 ## Done
