@@ -36,7 +36,7 @@ kanban-plugin: board
 
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
-- [ ] c/c++ 85강
+- [ ] c/c++ 85강(26/85)
 - [ ] 강화 학습
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
