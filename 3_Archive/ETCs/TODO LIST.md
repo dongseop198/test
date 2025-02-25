@@ -18,6 +18,14 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] Cyclops 테스트, 경로 짜기 참관
+	@[[2025-02-26]]
+	
+	#priority/high
+- [ ] SLAM 강의 진도 맞추기
+	@[[2025-03-10]]
+	
+	#priority/high
 - [ ] 구매 목록
 	-무릎 스트랩
 	-행거 선반
@@ -27,14 +35,6 @@ kanban-plugin: board
 	-스쿠터
 	-빔 프로젝터
 	@[[2025-03-01]]
-	
-	#priority/high
-- [ ] Cyclops 테스트, 경로 짜기 참관
-	@[[2025-02-26]]
-	
-	#priority/high
-- [ ] SLAM 강의 진도 맞추기
-	@[[2025-03-10]]
 	
 	#priority/high
 
