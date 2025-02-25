@@ -26,6 +26,10 @@ kanban-plugin: board
 	@[[2025-02-26]]
 	
 	#priority/high
+- [ ] SLAM 강의 진도 맞추기
+	@[[2025-03-10]]
+	
+	#priority/high
 
 
 ## Studying
@@ -36,6 +40,7 @@ kanban-plugin: board
 - [ ] 강화 학습
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
+- [ ] SLAM 스터디
 
 
 ## Future study plan
@@ -45,7 +50,6 @@ kanban-plugin: board
 	(기구학,역기구학)
 - [ ] ROS
 - [ ] C언어 자료 구조
-- [ ] SLAM 스터디
 
 
 ## Done
