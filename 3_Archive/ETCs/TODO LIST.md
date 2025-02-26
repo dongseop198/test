@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [x] 강화학습 옵시디언에 정리해보기
 - [ ] 등록금 분할 납부 신청
 	@[[2025-02-28]]
 	
@@ -63,6 +62,7 @@ kanban-plugin: board
 
 - [x] #priority/highest 
 	국기연 - 출장 신청
+- [x] 강화학습 옵시디언에 정리해보기
 - [x] solidworks 사용 인원 보고
 - [x] #priority/high @[[2025-02-23]]
 	SLAM 스터디 강의 듣기
