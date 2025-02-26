@@ -27,6 +27,8 @@ kanban-plugin: board
 	#priority/high
 - [ ] 구매 목록
 	-무릎 스트랩
+	-블루라이트 안경
+	-독서대
 	-행거 선반
 	-연청 바지
 	-스트라이프 셔츠
