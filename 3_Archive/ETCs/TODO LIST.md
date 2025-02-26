@@ -29,7 +29,7 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/low
-- [ ] pkrc ppt 번역하기
+- [x] pkrc ppt 번역하기
 	@[[2025-02-28]]
 - [ ] 강화 학습, it 세미나 출결 확인하기
 - [ ] 구매 목록
