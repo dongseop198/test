@@ -25,6 +25,13 @@ kanban-plugin: board
 	@[[2025-03-10]]
 	
 	#priority/high
+- [ ] inv mode =2 해결하기
+	@[[2025-02-28]]
+	
+	#priority/low
+- [ ] pkrc ppt 번역하기
+	@[[2025-02-28]]
+- [ ] 강화 학습, it 세미나 출결 확인하기
 - [ ] 구매 목록
 	-무릎 스트랩
 	-블루라이트 안경
@@ -38,12 +45,6 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] inv mode =2 해결하기
-	@[[2025-02-28]]
-	
-	#priority/low
-- [ ] pkrc ppt 번역하기
-	@[[2025-02-28]]
 
 
 ## Studying
@@ -54,12 +55,12 @@ kanban-plugin: board
 - [ ] 강화 학습
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
+- [ ] solidworks
 - [ ] SLAM 스터디
 
 
 ## Future study plan
 
-- [ ] solidworks
 - [ ] 로봇공학
 	(기구학,역기구학)
 - [ ] ROS
