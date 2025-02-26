@@ -38,6 +38,12 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] inv mode =2 해결하기
+	@[[2025-02-28]]
+	
+	#priority/low
+- [ ] pkrc ppt 번역하기
+	@[[2025-02-28]]
 
 
 ## Studying
