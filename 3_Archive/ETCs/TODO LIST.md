@@ -6,6 +6,11 @@ kanban-plugin: board
 
 ## In Progress
 
+- [ ] 강화 학습, it 세미나 출결 확인하기
+- [ ] 강화학습,딥러닝 복습하기
+	@[[2025-03-03]]
+	
+	#priority/high
 - [ ] 등록금 분할 납부 신청
 	@[[2025-02-28]]
 	
@@ -29,7 +34,6 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/low
-- [ ] 강화 학습, it 세미나 출결 확인하기
 - [ ] 구매 목록
 	-무릎 스트랩
 	-블루라이트 안경
@@ -49,11 +53,11 @@ kanban-plugin: board
 
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
+- [ ] solidworks
 - [ ] c/c++ 4강씩(26/85)
 - [ ] 강화 학습
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
-- [ ] solidworks
 - [ ] SLAM 스터디
 
 
