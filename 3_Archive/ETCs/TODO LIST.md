@@ -29,8 +29,6 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/low
-- [x] pkrc ppt 번역하기
-	@[[2025-02-28]]
 - [ ] 강화 학습, it 세미나 출결 확인하기
 - [ ] 구매 목록
 	-무릎 스트랩
@@ -69,6 +67,8 @@ kanban-plugin: board
 
 ## Done
 
+- [x] pkrc ppt 번역하기
+	@[[2025-02-28]]
 - [x] #priority/highest 
 	국기연 - 출장 신청
 - [x] 강화학습 옵시디언에 정리해보기
