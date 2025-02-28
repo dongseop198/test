@@ -6,13 +6,17 @@ kanban-plugin: board
 
 ## In Progress
 
+- [x] 등록금 분할 납부 신청
+	@[[2025-02-28]]
+	
+	#priority/high
+- [ ] SLAM 강의 진도 맞추기
+	@[[2025-03-10]]
+	
+	#priority/high
 - [ ] 강화 학습, it 세미나 출결 확인하기
 - [ ] 강화학습,딥러닝 복습하기
 	@[[2025-03-03]]
-	
-	#priority/high
-- [ ] 등록금 분할 납부 신청
-	@[[2025-02-28]]
 	
 	#priority/high
 - [ ] TA(졸업 요건)
@@ -26,19 +30,14 @@ kanban-plugin: board
 	@[[2025-02-26]]
 	
 	#priority/high
-- [ ] SLAM 강의 진도 맞추기
-	@[[2025-03-10]]
-	
-	#priority/high
 - [ ] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
 	#priority/low
-- [ ] 구매 목록
+- [ ] [[구매 목록]]
 	-무릎 스트랩
 	-블루라이트 안경
-	-독서대
-	-행거 선반
+	-피쉬테일 파카
 	-연청 바지
 	-스트라이프 셔츠
 	-프로틴
