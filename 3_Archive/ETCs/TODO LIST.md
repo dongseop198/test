@@ -46,6 +46,10 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] 신용 카드 제작
+	@[[2025-03-07]]
+	
+	#priority/low
 
 
 ## Studying
