@@ -19,7 +19,7 @@ kanban-plugin: board
 	
 	#priority/high
 - [x] 강화 학습, it 세미나 출결 확인하기
-- [ ] SLAM 강의 진도 맞추기
+- [x] SLAM 강의 진도 맞추기
 	@[[2025-03-10]]
 	
 	#priority/high
