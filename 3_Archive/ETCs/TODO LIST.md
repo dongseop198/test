@@ -58,6 +58,7 @@ kanban-plugin: board
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
 - [ ] SLAM 스터디
+- [ ] 논문 읽기
 
 
 ## Future study plan
