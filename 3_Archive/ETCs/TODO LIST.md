@@ -10,6 +10,14 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/high
+- [x] 알바 구하기
+	@[[2025-03-01]]
+	
+	#priority/high
+- [x] Cyclops 테스트, 경로 짜기 참관
+	@[[2025-02-26]]
+	
+	#priority/high
 - [ ] SLAM 강의 진도 맞추기
 	@[[2025-03-10]]
 	
@@ -20,14 +28,6 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] TA(졸업 요건)
-	
-	#priority/high
-- [ ] 알바 구하기
-	@[[2025-03-01]]
-	
-	#priority/high
-- [ ] Cyclops 테스트, 경로 짜기 참관
-	@[[2025-02-26]]
 	
 	#priority/high
 - [ ] inv mode =2 해결하기
