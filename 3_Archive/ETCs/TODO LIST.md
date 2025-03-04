@@ -56,13 +56,13 @@ kanban-plugin: board
 
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
+- [ ] 논문 읽기
 - [ ] solidworks
 - [ ] c/c++ 4강씩(26/85)
-- [ ] 강화 학습
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
+- [ ] 강화 학습 스터디
 - [ ] SLAM 스터디
-- [ ] 논문 읽기
 
 
 ## Future study plan
