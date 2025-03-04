@@ -23,14 +23,14 @@ kanban-plugin: board
 	@[[2025-03-10]]
 	
 	#priority/high
+- [x] 강화학습,딥러닝 복습하기
+	@[[2025-03-03]]
+	
+	#priority/high
 - [ ] 신용 카드 제작
 	@[[2025-03-07]]
 	
 	#priority/low
-- [ ] 강화학습,딥러닝 복습하기
-	@[[2025-03-03]]
-	
-	#priority/high
 - [ ] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
