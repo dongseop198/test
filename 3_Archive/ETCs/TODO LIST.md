@@ -27,7 +27,7 @@ kanban-plugin: board
 	@[[2025-03-03]]
 	
 	#priority/high
-- [ ] 신용 카드 제작
+- [x] 신용 카드 제작
 	@[[2025-03-07]]
 	
 	#priority/low
@@ -35,6 +35,9 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/low
+- [ ] TA(졸업 요건)
+	
+	#priority/high
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-블루라이트 안경
@@ -45,9 +48,6 @@ kanban-plugin: board
 	-스쿠터
 	-빔 프로젝터
 	@[[2025-03-01]]
-	
-	#priority/high
-- [ ] TA(졸업 요건)
 	
 	#priority/high
 
