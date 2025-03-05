@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
+- [ ] 주택청약 변경하기
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-핀턱 팬츠
@@ -31,16 +32,15 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] 주택청약 변경하기
 
 
 ## Studying
 
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
+- [x] solidworks basic
 - [ ] 논문 읽기(2)
 - [ ] c/c++(4)
-- [ ] solidworks
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
 - [ ] 강화 학습 스터디
@@ -53,6 +53,7 @@ kanban-plugin: board
 	(기구학,역기구학)
 - [ ] ROS
 - [ ] C언어 자료 구조
+- [ ] solidworks advanced
 
 
 ## Done
