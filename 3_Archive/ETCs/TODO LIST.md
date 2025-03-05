@@ -44,6 +44,7 @@ kanban-plugin: board
 
 - [ ] 로봇공학
 	(기구학,역기구학)
+	모던 로보틱스
 - [ ] ROS
 - [ ] C언어 자료 구조
 - [ ] solidworks advanced
