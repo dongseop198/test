@@ -19,6 +19,7 @@ kanban-plugin: board
 	#priority/high
 - [ ] [[구매 목록]]
 	-무릎 스트랩
+	-핀턱 팬츠
 	-블루라이트 안경
 	-피쉬테일 파카
 	-연청 바지
