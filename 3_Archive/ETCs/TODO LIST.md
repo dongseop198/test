@@ -29,6 +29,7 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] 주택청약 변경하기
 
 
 ## Studying
