@@ -406,3 +406,26 @@ WHERE file.name = this.file.name
 1. <https://statisticsplaybook.com/obsidian-markdown-cheatsheet/>
 2. <https://velog.io/@phobos90/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%EB%AC%B8%EB%B2%95%EC%A0%95%EB%A6%AC>
 3. <https://kexplain.com/17>
+4. 
+
+
+**-[[A robust loop-closure method for visual SLAM in unstructured seafloor environments]]
+
+정리해야할 것 : 강화 학습, SLAM study, 논문 리뷰 
+
+
+`printf("hello world");`
+
+
+```python
+def hello():
+
+print("hello obsidian")
+
+```
+
+>[!note]
+>옵시디언은 정말 강력한 앱입니다
+
+
+> [!info] 중요한 정보 > 옵시디언에서 Callout을 활용하면 노트를 더 깔끔하게 정리할 수 있습니다.**
