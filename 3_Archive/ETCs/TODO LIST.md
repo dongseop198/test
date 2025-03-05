@@ -6,31 +6,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [x] 등록금 분할 납부 신청
-	@[[2025-02-28]]
-	
-	#priority/high
-- [x] 알바 구하기
-	@[[2025-03-01]]
-	
-	#priority/high
-- [x] Cyclops 테스트, 경로 짜기 참관
-	@[[2025-02-26]]
-	
-	#priority/high
-- [x] 강화 학습, it 세미나 출결 확인하기
-- [x] SLAM 강의 진도 맞추기
-	@[[2025-03-10]]
-	
-	#priority/high
-- [x] 강화학습,딥러닝 복습하기
+- [ ] 강화 학습, it 세미나 출결 확인하기
+- [ ] 강화학습,딥러닝 복습하기
 	@[[2025-03-03]]
 	
 	#priority/high
-- [x] 신용 카드 제작
-	@[[2025-03-07]]
-	
-	#priority/low
 - [ ] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
@@ -77,8 +57,20 @@ kanban-plugin: board
 
 - [x] pkrc ppt 번역하기
 	@[[2025-02-28]]
+- [x] 알바 구하기
+	@[[2025-03-01]]
+	
+	#priority/high
 - [x] #priority/highest 
 	국기연 - 출장 신청
+- [x] Cyclops 테스트, 경로 짜기 참관
+	@[[2025-02-26]]
+	
+	#priority/high
+- [x] 등록금 분할 납부 신청
+	@[[2025-02-28]]
+	
+	#priority/high
 - [x] 강화학습 옵시디언에 정리해보기
 - [x] solidworks 사용 인원 보고
 - [x] #priority/high @[[2025-02-23]]
@@ -86,6 +78,14 @@ kanban-plugin: board
 - [x] #priority/highest
 	@[[2025-02-23]]
 	Agent - 파라미터 수정
+- [x] SLAM 강의 진도 맞추기
+	@[[2025-03-10]]
+	
+	#priority/high
+- [x] 신용 카드 제작
+	@[[2025-03-07]]
+	
+	#priority/low
 - [x] #priority/low 
 	학자금 대출 신청 완료 하기
 - [x] #priority/highest KROC - 사후정산
