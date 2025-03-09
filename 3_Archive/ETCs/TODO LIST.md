@@ -6,7 +6,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [x] 강화학습(출결),딥러닝 복습하기
+- [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-03]]
 	
 	#priority/high
