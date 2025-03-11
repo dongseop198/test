@@ -31,6 +31,7 @@ kanban-plugin: board
 - [ ] SLAM 5주차
 	@[[2025-03-17]]
 	#priority/high
+- [ ] cyclops 시뮬레이터 설치
 
 
 ## Studying
