@@ -17,7 +17,6 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
-- [ ] 주택청약 변경하기
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-프로틴
@@ -25,6 +24,9 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
 
 
 ## Studying
