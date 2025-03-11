@@ -28,6 +28,9 @@ kanban-plugin: board
 - [ ] 고용 24 과제, 보고서
 	@[[2025-03-21]]
 	#priority/highest
+- [ ] SLAM 5주차
+	@[[2025-03-17]]
+	#priority/high
 
 
 ## Studying
@@ -36,7 +39,7 @@ kanban-plugin: board
 - [x] opencv(python)
 - [x] solidworks basic
 - [ ] 논문 읽기(2)
-- [ ] c/c++(4)
+- [ ] c/c++(31/85)
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
 - [ ] 강화 학습 스터디
