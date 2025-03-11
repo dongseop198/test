@@ -10,14 +10,17 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] inv mode =2 해결하기
-	@[[2025-02-28]]
-	
-	#priority/low
+- [ ] cyclops 시뮬레이터 설치
+- [ ] SLAM 5주차
+	@[[2025-03-17]]
+	#priority/high
 - [ ] TA(졸업 요건)
 	
 	#priority/high
 - [ ] 보건증 발급
+- [ ] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-프로틴
@@ -25,13 +28,10 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] 고용 24 과제, 보고서
-	@[[2025-03-21]]
-	#priority/highest
-- [ ] SLAM 5주차
-	@[[2025-03-17]]
-	#priority/high
-- [ ] cyclops 시뮬레이터 설치
+- [ ] inv mode =2 해결하기
+	@[[2025-02-28]]
+	
+	#priority/low
 
 
 ## Studying
