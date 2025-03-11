@@ -7,7 +7,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] 강화학습(출결),딥러닝 복습하기
-	@[[2025-03-03]]
+	@[[2025-03-13]]
 	
 	#priority/high
 - [ ] inv mode =2 해결하기
