@@ -17,6 +17,7 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
+- [ ] 보건증 발급
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-프로틴
