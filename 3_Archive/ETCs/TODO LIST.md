@@ -7,7 +7,7 @@ kanban-plugin: board
 ## In Progress
 
 - [ ] 강화학습(출결),딥러닝 복습하기
-	@[[2025-03-03]]
+	@[[2025-03-13]]
 	
 	#priority/high
 - [ ] inv mode =2 해결하기
@@ -17,7 +17,7 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
-- [ ] 주택청약 변경하기
+- [ ] 보건증 발급
 - [ ] [[구매 목록]]
 	-무릎 스트랩
 	-프로틴
@@ -25,6 +25,9 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
+- [ ] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
 
 
 ## Studying
