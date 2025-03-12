@@ -10,7 +10,6 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] cyclops 시뮬레이터 설치
 - [ ] SLAM 5주차
 	@[[2025-03-17]]
 	#priority/high
@@ -28,10 +27,11 @@ kanban-plugin: board
 	@[[2025-03-01]]
 	
 	#priority/high
-- [ ] inv mode =2 해결하기
+- [x] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
 	#priority/low
+- [x] cyclops 시뮬레이터 설치
 
 
 ## Studying
