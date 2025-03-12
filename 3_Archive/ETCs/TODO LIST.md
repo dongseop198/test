@@ -20,13 +20,6 @@ kanban-plugin: board
 - [ ] 고용 24 과제, 보고서
 	@[[2025-03-21]]
 	#priority/highest
-- [ ] [[구매 목록]]
-	-무릎 스트랩
-	-프로틴
-	-스쿠터
-	@[[2025-03-01]]
-	
-	#priority/high
 - [x] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
