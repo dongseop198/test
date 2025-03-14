@@ -17,6 +17,7 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] 보건증 발급
+	전기세 납부
 - [ ] 고용 24 과제, 보고서
 	@[[2025-03-21]]
 	#priority/highest
@@ -25,6 +26,8 @@ kanban-plugin: board
 	
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
+	slam 알고리즘? 해보기
+- [ ] 짐벌?
 
 
 ## Studying
