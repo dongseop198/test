@@ -10,7 +10,7 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] SLAM 5주차
+- [x] SLAM 5주차
 	@[[2025-03-17]]
 	#priority/high
 - [ ] TA(졸업 요건)
