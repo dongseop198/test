@@ -19,6 +19,9 @@ kanban-plugin: board
 	#priority/high
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
+- [ ] 장학금
+	일본출장간사
+	AI캘린더,협업툴 조사
 - [ ] 고용 24 과제, 보고서
 	@[[2025-03-21]]
 	#priority/highest
@@ -27,9 +30,6 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
-- [ ] 장학금
-	일본출장간사
-	AI캘린더,협업툴 조사
 
 
 ## Studying
