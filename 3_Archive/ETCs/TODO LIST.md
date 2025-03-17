@@ -6,23 +6,23 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] 강화학습(출결),딥러닝 복습하기
+- [x] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
-	#priority/high
-- [ ] 고용 24 과제, 보고서
-	@[[2025-03-21]]
-	#priority/highest
-- [ ] 보건증 발급
-- [x] SLAM 5주차
-	@[[2025-03-17]]
 	#priority/high
 - [x] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
 	#priority/low
+- [x] SLAM 5주차
+	@[[2025-03-17]]
+	#priority/high
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
+- [ ] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
+- [ ] 보건증 발급
 - [ ] 짐벌?
 - [ ] TA(졸업 요건)
 	
