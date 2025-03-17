@@ -27,6 +27,8 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
+- [ ] 장학금
+	일본출장간사
 
 
 ## Studying
