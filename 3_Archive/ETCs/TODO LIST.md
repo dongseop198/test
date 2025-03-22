@@ -14,18 +14,20 @@ kanban-plugin: board
 	@[[2025-02-28]]
 	
 	#priority/low
-- [x] SLAM 5주차
-	@[[2025-03-17]]
-	#priority/high
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
-- [x] 보건증 발급
 - [x] 고용 24 과제, 보고서
 	@[[2025-03-21]]
 	#priority/highest
+- [ ] 보건증 찾기(월요일)
+- [ ] SLAM 6주차
+	@[[2025-03-17]]
+	#priority/high
 - [ ] 장학금
 	일본출장간사
 	AI캘린더,협업툴 조사
+	딥러닝 출석
+	유류비
 - [ ] 짐벌?
 - [ ] TA(졸업 요건)
 	
