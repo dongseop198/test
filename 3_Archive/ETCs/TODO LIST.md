@@ -25,7 +25,6 @@ kanban-plugin: board
 	#priority/high
 - [ ] 장학금
 	일본출장간사
-	AI캘린더,협업툴 조사
 	딥러닝 출석
 	유류비
 	등록금
