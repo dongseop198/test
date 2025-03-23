@@ -6,28 +6,32 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] 강화학습(출결),딥러닝 복습하기
+- [x] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] inv mode =2 해결하기
+- [x] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
 	#priority/low
+- [x] cyclops 시뮬레이터 설치
+	slam 알고리즘? 해보기
+- [x] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
+- [ ] 보건증 찾기(월요일)
+- [ ] SLAM 6주차
+	@[[2025-03-17]]
+	#priority/high
+- [ ] 장학금
+	일본출장간사
+	AI캘린더,협업툴 조사
+	딥러닝 출석
+	유류비
+- [ ] 짐벌?
 - [ ] TA(졸업 요건)
 	
 	#priority/high
-- [ ] 보건증 발급
-- [ ] [[구매 목록]]
-	-무릎 스트랩
-	-프로틴
-	-스쿠터
-	@[[2025-03-01]]
-	
-	#priority/high
-- [ ] 고용 24 과제, 보고서
-	@[[2025-03-21]]
-	#priority/highest
 
 
 ## Studying
@@ -36,7 +40,7 @@ kanban-plugin: board
 - [x] opencv(python)
 - [x] solidworks basic
 - [ ] 논문 읽기(2)
-- [ ] c/c++(4)
+- [ ] c/c++(31/85)
 - [ ] cyclops 운용, 전장, 코드
 - [ ] PCB
 - [ ] 강화 학습 스터디
