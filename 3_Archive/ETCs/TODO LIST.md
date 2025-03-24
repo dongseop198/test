@@ -16,11 +16,7 @@ kanban-plugin: board
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
-- [x] 고용 24 과제, 보고서
-	@[[2025-03-21]]
-	#priority/highest
-- [ ] 보건증 찾기(월요일)
-- [ ] SLAM 6주차
+- [x] SLAM 6주차
 	@[[2025-03-17]]
 	#priority/high
 - [ ] 장학금
@@ -67,6 +63,10 @@ kanban-plugin: board
 	#priority/high
 - [x] #priority/highest 
 	국기연 - 출장 신청
+- [x] 보건증 찾기(월요일)
+- [x] 고용 24 과제, 보고서
+	@[[2025-03-21]]
+	#priority/highest
 - [x] Cyclops 테스트, 경로 짜기 참관
 	@[[2025-02-26]]
 	
