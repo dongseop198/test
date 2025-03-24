@@ -35,10 +35,10 @@ kanban-plugin: board
 - [x] 연구 윤리 강의 수강
 - [x] opencv(python)
 - [x] solidworks basic
-- [ ] 논문 읽기(2)
+- [x] 논문 읽기(2)
+- [x] PCB
 - [ ] c/c++(31/85)
 - [ ] cyclops 운용, 전장, 코드
-- [ ] PCB
 - [ ] 강화 학습 스터디
 - [ ] SLAM 스터디
 
