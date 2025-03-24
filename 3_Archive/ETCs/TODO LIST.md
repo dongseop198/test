@@ -21,9 +21,6 @@ kanban-plugin: board
 	#priority/high
 - [ ] 장학금
 	일본출장간사
-	딥러닝 출석
-	유류비
-	등록금
 - [ ] 짐벌?
 - [ ] TA(졸업 요건)
 	
