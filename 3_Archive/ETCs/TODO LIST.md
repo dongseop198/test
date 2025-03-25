@@ -16,11 +16,15 @@ kanban-plugin: board
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
+- [ ] 딥러닝 과제
+	#priority/highest 
+	@[[2025-04-03]]
 - [ ] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
 - [ ] 장학금
 	일본출장간사
+	보건증 출력하기
 - [ ] 짐벌?
 - [ ] TA(졸업 요건)
 	
