@@ -16,7 +16,7 @@ kanban-plugin: board
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
-- [x] SLAM 6주차
+- [ ] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
 - [ ] 장학금
