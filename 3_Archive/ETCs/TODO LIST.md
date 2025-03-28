@@ -20,15 +20,13 @@ kanban-plugin: board
 	@[[2025-03-17]]
 	#priority/high
 - [ ] 딥러닝 과제
+	
 	#priority/highest 
 	@[[2025-04-03]]
 - [ ] 장학금
-	일본 출장 간사
-	시험 공부
-- [ ] 짐벌?
-- [ ] TA(졸업 요건)
+	@[[2025-04-16]]
 	
-	#priority/high
+	#priority/highest
 
 
 ## Studying
@@ -54,122 +52,30 @@ kanban-plugin: board
 - [ ] solidworks advanced
 
 
-## Done
+## Long period
 
-- [x] pkrc ppt 번역하기
-	@[[2025-02-28]]
-- [x] 알바 구하기
-	@[[2025-03-01]]
+- [ ] 짐벌
+- [ ] TA(졸업 요건)
 	
 	#priority/high
-- [x] #priority/highest 
-	국기연 - 출장 신청
-- [x] 보건증 찾기(월요일)
-- [x] 고용 24 과제, 보고서
-	@[[2025-03-21]]
-	#priority/highest
-- [x] Cyclops 테스트, 경로 짜기 참관
-	@[[2025-02-26]]
+- [ ] 핸드폰 요금 변경
 	
 	#priority/high
+- [ ] 시험 공부
+	
+	#priority/lowest
+
+
+***
+
+## 보관됨
+
+- [x] #priority/highest @[[2025-02-17]]
+	Agent `inv_mode = 2` 오류 해결하기
 - [x] 등록금 분할 납부 신청
 	@[[2025-02-28]]
 	
 	#priority/high
-- [x] 강화학습 옵시디언에 정리해보기
-- [x] solidworks 사용 인원 보고
-- [x] #priority/high @[[2025-02-23]]
-	SLAM 스터디 강의 듣기
-- [x] #priority/highest
-	@[[2025-02-23]]
-	Agent - 파라미터 수정
-- [x] SLAM 강의 진도 맞추기
-	@[[2025-03-10]]
-	
-	#priority/high
-- [x] 신용 카드 제작
-	@[[2025-03-07]]
-	
-	#priority/low
-- [x] #priority/low 
-	학자금 대출 신청 완료 하기
-- [x] #priority/highest KROC - 사후정산
-- [x] #priority/highest 
-	신입생 시간표 정리
-- [x] 물품 구매 견적서 송부하기
-	@[[2025-03-24]]
-	
-	#priority/highest
-- [x] #priority/low @[[2025-02-25]]
-	청년 월세 지원 신청
-- [x] #priority/high
-	@[[2025-02-08]]
-	PKRC - 3D 프린트
-- [x] #priority/high 
-	@[[2025-02-20]]
-	사후정산 완료
-- [x] #priority/highest @[[2025-02-17]]
-	Agent `inv_mode = 2` 오류 해결하기
-- [x] #priority/lowest 
-	자동차 정기 점검
-- [x] #priority/highest @[[2025-02-14]]
-	
-	국기연 PDR 엑셀 파일 제출
-- [x] #priority/highest  @[[2025-02-09]]
-	국기연 PDR 발표자료 작성
-- [x] #priority/lowest 
-	@[[2025-02-23]]
-	논문 실적 추가
-- [x] #priority/low
-	@[[2025-02-08]]
-	UT - 일정 및 체크박스 정리
-- [x] 물품 구매 견적서 송부하기
-	@[[2025-03-24]]
-	
-	#priority/highest
-- [x] 월세, 관리비 송금
-	@[[2025-02-25]]
-	
-	#priority/highest
-- [x] #priority/highest @[[2025-02-02]]
-	[[Kanban - Reinforcement Learning]]
-	물체 검출 및 제어
-- [x] 한글 설치, 듀얼 부팅 설치
-	@[[2025-02-25]]
-	
-	#priority/high
-- [x] #priority/high 
-	@[[2025-02-03]]
-	[[Kanban - PKRC]]
-	pathfinder 테스트
-- [x] ubuntu 개발 환경 구축
-	@[[2025-02-24]]
-	
-	#priority/high
-- [x] 월세, 관리비 송금
-	@[[2025-02-25]]
-	
-	#priority/highest
-- [x] #priority/high
-	월세 제출하기
-- [x] #priority/highest @[[2025-02-03]]
-	SLAM 강의 듣기
-- [x] @[[2025-02-03]]
-	#priority/low 
-	연구실 SCI 논문 관련 조사 @@{10:30}
-- [x] #priority/highest 
-	@[[2025-01-26]]
-	[[재선 선배님 논문 그림]]
-- [x] #priority/low 
-	가스비 제출하기
-- [x] #priority/high 
-	보험 해지 및 채무 불이행 해결하기
-- [x] #priority/high @[[2025-01-31]]
-	논문 사독
-	[[Sensors-81169-2024_Proof_hi.pdf]]
-
-
-
 
 %% kanban:settings
 ```
