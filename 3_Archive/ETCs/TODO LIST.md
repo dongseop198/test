@@ -16,12 +16,12 @@ kanban-plugin: board
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
+- [x] SLAM 7주차
+	@[[2025-03-17]]
+	#priority/high
 - [ ] 딥러닝 과제
 	#priority/highest 
 	@[[2025-04-03]]
-- [ ] SLAM 7주차
-	@[[2025-03-17]]
-	#priority/high
 - [ ] 장학금
 	일본 출장 간사
 - [ ] 짐벌?
