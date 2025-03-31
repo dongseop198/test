@@ -58,13 +58,13 @@ kanban-plugin: board
 - [ ] TA(졸업 요건)
 	
 	#priority/high
+- [ ] 시험 공부
+	
+	#priority/lowest
 - [ ] 핸드폰 요금 변경
 	@[[2025-04-16]]
 	
 	#priority/high
-- [ ] 시험 공부
-	
-	#priority/lowest
 - [ ] 커리어스타
 	@[[2025-04-01]]
 
