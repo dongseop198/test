@@ -54,7 +54,7 @@ kanban-plugin: board
 
 ## Long period
 
-- [ ] 커리어스타
+- [x] 커리어스타
 	@[[2025-04-01]]
 - [ ] 시험 공부
 	
