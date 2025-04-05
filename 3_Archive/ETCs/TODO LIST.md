@@ -19,7 +19,7 @@ kanban-plugin: board
 - [x] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
-- [ ] 딥러닝 과제(8시)
+- [x] 딥러닝 과제(8시)
 	
 	#priority/highest 
 	@[[2025-04-03]]
