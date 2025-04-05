@@ -67,6 +67,7 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/high
+- [ ] 4/30일 쿠폰?? 해지해야함
 
 
 ***
