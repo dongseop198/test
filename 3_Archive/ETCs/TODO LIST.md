@@ -23,7 +23,7 @@ kanban-plugin: board
 	
 	#priority/highest 
 	@[[2025-04-03]]
-- [ ] 장학금
+- [x] 장학금
 	@[[2025-04-16]]
 	
 	#priority/highest
@@ -56,7 +56,7 @@ kanban-plugin: board
 
 - [x] 커리어스타
 	@[[2025-04-01]]
-- [ ] 시험 공부
+- [x] 시험 공부
 	
 	#priority/lowest
 - [ ] 짐벌
