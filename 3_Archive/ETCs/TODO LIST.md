@@ -24,11 +24,11 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/highest
-- [ ] 강화학습(출결),딥러닝 복습하기
+- [x] 일본 국외출장 사후정산
+- [x] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] 일본 국외출장 사후정산
 
 
 ## Studying
