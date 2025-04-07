@@ -23,12 +23,12 @@ kanban-plugin: board
 	
 	#priority/highest 
 	@[[2025-04-03]]
-- [x] 장학금
+- [x] 그리드맵 파일 코드 짜기
+- [x] 일본 국외출장 사후정산
+- [ ] 장학금
 	@[[2025-04-16]]
 	
 	#priority/highest
-- [x] 일본 국외출장 사후정산
-- [ ] 그리드맵 파일 코드 짜기
 
 
 ## Studying
@@ -70,6 +70,7 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] 4/30일 쿠폰?? 해지해야함
+- [ ] 카드 재발급
 
 
 ***
