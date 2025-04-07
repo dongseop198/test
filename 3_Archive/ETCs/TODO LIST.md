@@ -27,6 +27,7 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/highest
+- [ ] 일본 국외출장 사후정산
 
 
 ## Studying
@@ -54,11 +55,11 @@ kanban-plugin: board
 
 ## Long period
 
-- [x] 커리어스타
-	@[[2025-04-01]]
 - [x] 시험 공부
 	
 	#priority/lowest
+- [ ] 커리어스타
+	@[[2025-04-01]]
 - [ ] 짐벌
 - [ ] TA(졸업 요건)
 	
