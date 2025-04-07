@@ -27,7 +27,8 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/highest
-- [ ] 일본 국외출장 사후정산
+- [x] 일본 국외출장 사후정산
+- [ ] 그리드맵 파일 코드 짜기
 
 
 ## Studying
