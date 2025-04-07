@@ -6,10 +6,6 @@ kanban-plugin: board
 
 ## In Progress
 
-- [x] 강화학습(출결),딥러닝 복습하기
-	@[[2025-03-13]]
-	
-	#priority/high
 - [x] inv mode =2 해결하기
 	@[[2025-02-28]]
 	
@@ -24,11 +20,15 @@ kanban-plugin: board
 	#priority/highest 
 	@[[2025-04-03]]
 - [x] 그리드맵 파일 코드 짜기
-- [x] 일본 국외출장 사후정산
-- [ ] 장학금
+- [x] 장학금
 	@[[2025-04-16]]
 	
 	#priority/highest
+- [ ] 강화학습(출결),딥러닝 복습하기
+	@[[2025-03-13]]
+	
+	#priority/high
+- [ ] 일본 국외출장 사후정산
 
 
 ## Studying
