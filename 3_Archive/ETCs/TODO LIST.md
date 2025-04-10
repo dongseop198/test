@@ -29,6 +29,7 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/highest
+- [ ] underwater SLAM 관련 논문 읽어보기
 
 
 ## Studying
