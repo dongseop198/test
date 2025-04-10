@@ -20,15 +20,15 @@ kanban-plugin: board
 	#priority/highest 
 	@[[2025-04-03]]
 - [x] 그리드맵 파일 코드 짜기
-- [x] 장학금
-	@[[2025-04-16]]
-	
-	#priority/highest
 - [x] 일본 국외출장 사후정산
 - [x] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
 	#priority/high
+- [ ] 장학금 마무리
+	@[[2025-04-16]]
+	
+	#priority/highest
 
 
 ## Studying
