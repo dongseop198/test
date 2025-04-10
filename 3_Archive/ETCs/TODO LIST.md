@@ -40,7 +40,6 @@ kanban-plugin: board
 - [x] PCB
 - [ ] c/c++(31/85)
 - [ ] cyclops/agent 운용, 전장, 코드
-- [ ] 강화 학습 스터디
 - [ ] SLAM 스터디
 
 
@@ -51,6 +50,7 @@ kanban-plugin: board
 	모던 로보틱스
 - [ ] ROS
 - [ ] C언어 자료 구조
+- [ ] 강화 학습 스터디
 - [ ] solidworks advanced
 
 
