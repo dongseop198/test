@@ -59,7 +59,7 @@ kanban-plugin: board
 - [x] 시험 공부
 	
 	#priority/lowest
-- [ ] 커리어스타
+- [x] 커리어스타
 	@[[2025-04-01]]
 - [ ] 짐벌
 - [ ] TA(졸업 요건)
