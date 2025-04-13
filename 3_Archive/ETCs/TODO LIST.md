@@ -62,6 +62,7 @@ kanban-plugin: board
 	#priority/lowest
 - [x] 커리어스타
 	@[[2025-04-01]]
+- [x] 카드 재발급
 - [ ] 짐벌
 - [ ] TA(졸업 요건)
 	
@@ -71,7 +72,6 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] 4/30일 쿠폰?? 해지해야함
-- [ ] 카드 재발급
 
 
 ***
