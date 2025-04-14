@@ -39,7 +39,7 @@ kanban-plugin: board
 - [x] solidworks basic
 - [x] 논문 읽기(2)
 - [x] PCB
-- [ ] c/c++(31/85)
+- [ ] c/c++(36/85)
 - [ ] cyclops/agent 운용, 전장, 코드
 - [ ] SLAM 스터디
 
