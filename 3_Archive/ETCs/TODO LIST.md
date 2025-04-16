@@ -28,7 +28,6 @@ kanban-plugin: board
 - [ ] 성민선배 소나 실험 돕기, 세환선배 영상 짜집기
 	
 	@[[2025-04-30]]
-- [ ] underwater SLAM 관련 논문 읽어보기, 재선 선배님 코드
 - [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
@@ -45,6 +44,7 @@ kanban-plugin: board
 - [x] PCB
 - [ ] c/c++(49/85)
 - [ ] cyclops/agent 운용, 전장, 코드
+- [ ] underwater SLAM 관련 논문 읽어보기, 재선 선배님 코드
 - [ ] SLAM 스터디
 
 
