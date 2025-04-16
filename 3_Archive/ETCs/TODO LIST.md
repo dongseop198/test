@@ -21,6 +21,7 @@ kanban-plugin: board
 	@[[2025-04-03]]
 - [x] 그리드맵 파일 코드 짜기
 - [x] 일본 국외출장 사후정산
+- [x] orcad 노트북에 설치하기
 - [ ] 강화학습 논문 읽기
 	@[[2025-04-20]]
 	
@@ -32,7 +33,6 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] orcad 노트북에 설치하기
 
 
 ## Studying
