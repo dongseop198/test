@@ -33,6 +33,7 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
+- [ ] orcad 노트북에 설치하기
 
 
 ## Studying
