@@ -12,9 +12,6 @@ kanban-plugin: board
 	#priority/low
 - [x] cyclops 시뮬레이터 설치
 	slam 알고리즘? 해보기
-- [x] SLAM 7주차
-	@[[2025-03-17]]
-	#priority/high
 - [x] 딥러닝 과제(8시)
 	
 	#priority/highest 
@@ -22,14 +19,17 @@ kanban-plugin: board
 - [x] 그리드맵 파일 코드 짜기
 - [x] 일본 국외출장 사후정산
 - [x] orcad 노트북에 설치하기
+- [x] 디디슨 실험 물체 뽑기
+	
+	@[[2025-04-30]]
+- [ ] SLAM 7주차
+	@[[2025-03-17]]
+	#priority/high
 - [ ] 강화학습 논문 읽기
 	@[[2025-04-20]]
 	
 	#priority/high
 - [ ] 세환선배 영상 짜집기
-	
-	@[[2025-04-30]]
-- [ ] 디디슨 실험 물체 뽑기
 	
 	@[[2025-04-30]]
 - [ ] 강화학습(출결),딥러닝 복습하기
@@ -45,7 +45,7 @@ kanban-plugin: board
 - [x] solidworks basic
 - [x] 논문 읽기(2)
 - [x] PCB
-- [ ] c/c++(49/85)
+- [ ] c/c++(50/85)
 - [ ] cyclops/agent 운용, 전장, 코드
 - [ ] underwater SLAM 관련 논문 읽어보기, 재선 선배님 코드
 - [ ] SLAM 스터디
