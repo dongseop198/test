@@ -22,6 +22,9 @@ kanban-plugin: board
 - [x] 디디슨 실험 물체 뽑기
 	
 	@[[2025-04-30]]
+- [x] 세환선배 영상 짜집기
+	
+	@[[2025-04-30]]
 - [ ] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
@@ -29,9 +32,6 @@ kanban-plugin: board
 	@[[2025-04-20]]
 	
 	#priority/high
-- [ ] 세환선배 영상 짜집기
-	
-	@[[2025-04-30]]
 - [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
@@ -74,7 +74,7 @@ kanban-plugin: board
 	@[[2025-04-16]]
 	
 	#priority/highest
-- [ ] 짐벌
+- [x] 짐벌
 - [ ] TA(졸업 요건)
 	
 	#priority/high
