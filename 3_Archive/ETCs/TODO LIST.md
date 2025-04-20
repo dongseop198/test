@@ -83,6 +83,7 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] 4/30일 쿠폰?? 해지해야함
+	4월 23일날 주유하고 해지하기
 
 
 ***
