@@ -61,6 +61,7 @@ kanban-plugin: board
 - [ ] C언어 자료 구조
 - [ ] 강화 학습 스터디
 - [ ] solidworks advanced
+- [ ] 쿠루시아(토), 로즈마리(월 목)
 
 
 ## Long period
