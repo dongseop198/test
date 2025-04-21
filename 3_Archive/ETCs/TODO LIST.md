@@ -25,7 +25,7 @@ kanban-plugin: board
 - [x] 세환선배 영상 짜집기
 	
 	@[[2025-04-30]]
-- [ ] 강화학습 논문 읽기
+- [x] 강화학습 논문 읽기
 	@[[2025-04-20]]
 	
 	#priority/high
@@ -36,6 +36,7 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
+- [ ] ORCAD 정리하기
 
 
 ## Studying
