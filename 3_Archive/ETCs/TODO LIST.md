@@ -22,13 +22,14 @@ kanban-plugin: board
 - [x] 디디슨 실험 물체 뽑기
 	
 	@[[2025-04-30]]
-- [x] 세환선배 영상 짜집기
-	
-	@[[2025-04-30]]
 - [x] 강화학습 논문 읽기
 	@[[2025-04-20]]
 	
 	#priority/high
+- [ ] 세환선배 모자이킹
+	
+	@[[2025-04-30]]
+- [ ] Agent 시뮬레이터 만져보기
 - [ ] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
@@ -37,7 +38,6 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] ORCAD 정리하기
-- [ ] Agent 시뮬레이터 만져보기
 
 
 ## Studying
