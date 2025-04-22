@@ -29,7 +29,7 @@ kanban-plugin: board
 - [x] 세환선배 모자이킹
 	
 	@[[2025-04-30]]
-- [ ] SLAM 7주차
+- [x] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
 - [ ] Agent 시뮬레이터 만져보기
