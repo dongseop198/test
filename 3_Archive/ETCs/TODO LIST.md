@@ -29,15 +29,15 @@ kanban-plugin: board
 - [x] 세환선배 모자이킹
 	
 	@[[2025-04-30]]
-- [ ] Agent 시뮬레이터 만져보기
 - [ ] SLAM 7주차
 	@[[2025-03-17]]
 	#priority/high
+- [ ] Agent 시뮬레이터 만져보기
+- [ ] ORCAD 정리하기
 - [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] ORCAD 정리하기
 
 
 ## Studying
