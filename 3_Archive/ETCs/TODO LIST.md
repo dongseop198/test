@@ -37,6 +37,7 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] ORCAD 정리하기
+- [ ] Agent 시뮬레이터 만져보기
 
 
 ## Studying
