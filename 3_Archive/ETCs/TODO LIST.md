@@ -38,6 +38,7 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
+- [ ] 딥러닝과제
 
 
 ## Studying
