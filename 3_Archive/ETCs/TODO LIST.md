@@ -33,12 +33,12 @@ kanban-plugin: board
 	@[[2025-03-17]]
 	#priority/high
 - [ ] Agent 시뮬레이터 만져보기
+- [ ] 딥러닝과제
 - [ ] ORCAD 정리하기
 - [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
 	#priority/high
-- [ ] 딥러닝과제
 
 
 ## Studying
