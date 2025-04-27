@@ -33,8 +33,8 @@ kanban-plugin: board
 	@[[2025-03-17]]
 	#priority/high
 - [x] 딥러닝과제
+- [x] ORCAD 정리하기
 - [ ] Agent 시뮬레이터 만져보기
-- [ ] ORCAD 정리하기
 - [ ] 강화학습(출결),딥러닝 복습하기
 	@[[2025-03-13]]
 	
@@ -79,11 +79,11 @@ kanban-plugin: board
 	
 	#priority/highest
 - [x] 짐벌
-- [ ] TA(졸업 요건)
+- [x] 핸드폰 요금 변경
+	@[[2025-04-16]]
 	
 	#priority/high
-- [ ] 핸드폰 요금 변경
-	@[[2025-04-16]]
+- [ ] TA(졸업 요건)
 	
 	#priority/high
 - [ ] 4/30일 쿠폰?? 해지해야함
