@@ -39,6 +39,9 @@ kanban-plugin: board
 	@[[2025-03-13]]
 	
 	#priority/high
+- [ ] CYCLOPS구동하는거 한번 읽어보고 실습할 수 잇으면 해보기
+	ISSAC GYM 더 만져보고 시뮬레이터 논문 한번 읽어보기
+	로봇핸드 만져보자
 
 
 ## Studying
