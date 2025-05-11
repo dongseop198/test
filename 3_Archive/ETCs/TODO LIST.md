@@ -89,6 +89,8 @@ kanban-plugin: board
 	
 	#priority/high
 - [ ] 나는 무주택 세대주임(청약 해결, 자동이체 걸기)
+	@[[2025-06-01]]
+	#priority/high
 
 
 ***
